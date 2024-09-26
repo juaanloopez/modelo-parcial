@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1727308396 source:c:\users\juaan\onedrive\escritorio\modelo parcial\modelo parcial\main.cpp
+	<iostream>
+	"modeloparcial.h"
+
+1727308545 c:\users\juaan\onedrive\escritorio\modelo parcial\modelo parcial\modeloparcial.h
+	<iostream>
+	<string.h>
+
